@@ -130,3 +130,7 @@ main {
 .content-content {
   font-size: min(1.5vw, 1.5em);
 }
+
+.description {
+  font-size: min(3vw, 3em);
+}
