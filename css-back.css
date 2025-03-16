@@ -15,7 +15,7 @@ body {
 }
 
 #icon-cover {
-  width: min(1.5vw, 2em);
+  width: min(2vw, 2em);
   margin-top: 4%;
   margin-left: 4%;
 }
@@ -132,5 +132,5 @@ main {
 }
 
 .description {
-  font-size: min(3vw, 3em);
+  font-size: min(2.5vw, 2.5em);
 }
